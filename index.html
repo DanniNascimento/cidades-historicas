@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap"
+        rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cidades Historicas</title>
+
+    <link rel="stylesheet" href="./css/styles.css">
+    <link rel="stylesheet" href="./css/responsive.css">
+
+</head>
+
+<body>
+    <header>
+            <h1>Cidades Historicas</h1>
+    </header>
+    <main>
+        <div class="container">
+            <section>
+                <input type="text" placeholder="Digite o nome da cidade" id="cidade-pesquisa">
+                <button onclick="buscar()">Pesquisar</button>
+            </section>
+            <section class="resultados-pesquisas" id="pesquisas-resultado">
+            </section>
+        </div>
+    </main>
+    <footer>
+        <p>&copy;2024 - Cidades Históricas. Todos os direitos reservados. Entre em contato pelo e-mail: <a href="mailto:dnrcriartes@gmail.com">dnrcriartes@gmail.com</a></p>
+
+    </footer>
+    <script src="./js/background.js"></script>
+    <script src="./js/cidadesHistoricas.js"></script>
+    <script src="./js/app.js"></script>
+</body>
+
+</html>
