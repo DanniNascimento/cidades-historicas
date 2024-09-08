@@ -86,9 +86,9 @@ Como em toda boa aventura, enfrentamos alguns desafios:
 
 O projeto foi desenvolvido durante o programa Imersão Dev da Alura com o apoio dos seguintes tutores:
 
-- [Rafaella Ballerini](https://github.com/rafaellaballerini) - Instrutora front-end @ Alura
-- [Guilherme Lima](https://github.com/guilherme-lima) - Tech Educator e Professor na Alura e na USP
-- [Luciano Martins](https://github.com/luciano-martins) - Developer Advocate, Google IA
+- Rafaella Ballerini - Instrutora front-end @ Alura
+- Guilherme Lima - Tech Educator e Professor na Alura e na USP
+- Luciano Martins - Developer Advocate, Google IA
 
   # Autores
 
